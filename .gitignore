@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.swp
+.env
+*.db
+*.log
+node_modules/
+*.sqlite3
+public/files/
+sites/
+.env
+.DS_Store
